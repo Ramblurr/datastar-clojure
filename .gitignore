@@ -1,0 +1,12 @@
+.cpcache
+.nrepl-port
+.lsp
+.clj-kondo/**
+!.clj-kondo/config.edn
+!.clj-kondo/hooks**
+
+test-resources/test.config.edn
+/.lsp-root
+/.nfnl.fnl
+/.nvim.fnl
+/.nvim.lua
